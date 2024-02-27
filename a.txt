@@ -1,0 +1,3 @@
+This next line is dependent on config of the VM - currently it will not show git dif
+If you press `return` in the terminal, you will now see that you have untracked changes.
+
